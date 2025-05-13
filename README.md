@@ -140,7 +140,7 @@ This project is licensed under the [MIT License](https://github.com/MathRC/mpea/
 
 ---
 
-**🔗 Connect:** [LinkedIn](https://www.linkedin.com/in/mrctranslations/) • [GitHub](https://github.com/MathRC)  
+**🔗 Connect:** [LinkedIn](https://www.linkedin.com/in/matheus-chaud/) • [GitHub](https://github.com/MathRC)  
 **📧 Email:** [matt25data@gmail.com](mailto:matt25data@gmail.com)
 
 
