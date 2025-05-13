@@ -2,7 +2,7 @@
 <br>
 
 [![GitHub Repo Size](https://img.shields.io/github/repo-size/MathRC/mpea)](https://github.com/MathRC/mpea)  
-[![License](https://img.shields.io/github/license/MathRC/mpea)](https://github.com/MathRC/mpea/blob/main/LICENSE)  
+[![License](https://img.shields.io/github/license/MathRC/mpea)](https://github.com/MathRC/mpea/blob/main/LICENSE.txt)  
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Full%20EDA%20%2B%20Modeling-blue)](analysis/analysis.ipynb)
 
 <p align="center"><em>Using data science and machine learning to explore and predict yield strength in multi-principal element alloys based on composition, microstructure, and processing methods</em></p>
