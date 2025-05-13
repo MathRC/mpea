@@ -1,0 +1,28 @@
+# Conda environment for the "Predicting Yield Strength in Multi-Principal Element Alloys" project
+# Includes libraries for data analysis, modeling, and Jupyter Notebook support
+
+name: mpea
+channels:  
+  - defaults
+
+dependencies:
+  # Core Libraries
+  - python=3.12
+  - pandas=2.2.2
+  - numpy=1.26.4
+
+  # Visualization
+  - matplotlib=3.9.2
+  - seaborn=0.13.2
+  - missingno=0.4.2
+
+  # Machine Learning & Modeling
+  - scikit-learn=1.5.1
+  - xgboost=2.1.1
+  - shap=0.46.0
+  - joblib=1.4.2
+
+  # Jupyter Environment
+  - notebook=7.2.2
+  - ipykernel=6.29.5
+  - ipywidgets=7.8.1
