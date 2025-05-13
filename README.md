@@ -136,7 +136,7 @@ Available at: https://github.com/CitrineInformatics/MPEA_dataset
 ---
 
 ## 📝 License  
-This project is licensed under the [MIT License](https://github.com/MathRC/mpea/blob/main/LICENSE).
+This project is licensed under the [MIT License](https://github.com/MathRC/mpea/blob/main/LICENSE.txt).
 
 ---
 
