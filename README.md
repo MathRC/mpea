@@ -14,7 +14,7 @@
 
 ---
 
-## 🔍 Overview  
+## Overview  
 This project explores a curated dataset of **Multi-Principal Element Alloys (MPEAs)** to:  
 1. **Identify high-strength alloys** through exploratory data analysis (EDA)  
 2. **Predict yield strength** based on composition, microstructure, and processing methods  
@@ -28,7 +28,7 @@ This analysis focuses on **compressive yield strength** at **room temperature (2
 
 ---
 
-## 📂 Repository Structure  
+## Repository Structure  
 ```
 |
 ├── analysis/                # Jupyter notebook + visuals
@@ -42,7 +42,7 @@ This analysis focuses on **compressive yield strength** at **room temperature (2
 
 ---
 
-## 📊 Dataset Description  
+## Dataset Description  
 
 The dataset originates from the study *"Expanded dataset of mechanical properties and observed phases of multi-principal element alloys"* (Borg et al., 2020) and includes information such as **yield strength measurements**, **chemical composition**, **microstructure**, **processing methods**, **density**, **grain size**, and more.
 
@@ -50,7 +50,7 @@ It is publicly available via [Citrine Informatics' GitHub repository](https://gi
 
 ---
 
-## 🛠️ Tech Stack  
+## Tech Stack  
 
 - **Python**: Pandas, NumPy, Scikit-learn, XGBoost, SHAP  
 - **Visualization**: Matplotlib, Seaborn, Missingno  
@@ -58,7 +58,7 @@ It is publicly available via [Citrine Informatics' GitHub repository](https://gi
 
 ---
 
-## 🎯 Key Insights  
+## Key Insights  
 
 ### Top-Performing Alloys  
 - **Highest Yield Strength**: `Cr1 Mo1 Nb1 Ta1 V1 W1` (BCC+Laves+Sec., powder-processed) achieved **3416 MPa**.  
@@ -89,7 +89,7 @@ It is publicly available via [Citrine Informatics' GitHub repository](https://gi
 
 ---
 
-## 💻 How to Reproduce  
+## How to Reproduce  
 
 1. **Clone the repository**:
 
@@ -116,14 +116,14 @@ It is publicly available via [Citrine Informatics' GitHub repository](https://gi
 
 ---
 
-## 🤝 Acknowledgments  
+## Acknowledgments  
 - **Citrine Informatics** for hosting this transformative dataset and enabling open science.  
 - **Borg et al. (2020)** for curating and validating a dataset of over 1,000 MPEA entries through domain expertise and statistical reviews.  
 - **Materials Science Community** for pioneering research that bridges metallurgy and data-driven design.  
 
 ---
 
-## 📚 References  
+## References  
 
 [1] Borg, C. K. H., Frey, C., Moh, J., Pollock, T. M., Gorsse, S., et al. (2020).  
 Expanded dataset of mechanical properties and observed phases of multi-principal element alloys. *Scientific Data*, 7, 430.  
@@ -135,12 +135,12 @@ Available at: https://github.com/CitrineInformatics/MPEA_dataset
 
 ---
 
-## 📝 License  
+## License  
 This project is licensed under the [MIT License](https://github.com/MathRC/mpea/blob/main/LICENSE.txt).
 
 ---
 
-**🔗 Connect:** [LinkedIn](https://www.linkedin.com/in/matheus-chaud/) • [GitHub](https://github.com/MathRC)  
+**Connect:** [LinkedIn](https://www.linkedin.com/in/matheus-chaud/) • [GitHub](https://github.com/MathRC)  
 **📧 Email:** [matt25data@gmail.com](mailto:matt25data@gmail.com)
 
 
