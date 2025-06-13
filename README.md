@@ -144,7 +144,7 @@ This project is licensed under the [MIT License](https://github.com/MathRC/mpea/
 **📧 Email:** [matt25data@gmail.com](mailto:matt25data@gmail.com)
 
 
-*✨ Open to collaboration and feedback!*  
+*Open to collaboration and feedback!*  
 
 ---
 
